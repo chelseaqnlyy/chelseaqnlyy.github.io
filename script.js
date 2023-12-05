@@ -7,7 +7,7 @@ const NoBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "Yeyy asikkk";
     gif.src =
-        "https://giphy.com/gifs/play-chick-tube-1JXE6fSDYeCAnm96gH";
+        "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
 });
 
 NoBtn.addEventListener("click", () => {
