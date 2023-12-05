@@ -6,8 +6,8 @@ const NoBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "Yeyy asikkk";
-    gif.src =
-        "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
+    image.src =
+        "https://i.pinimg.com/564x/98/0d/42/980d4267e6ef39d72baff9984c0eafde.jpg";
 });
 
 NoBtn.addEventListener("click", () => {
